@@ -1,1 +1,1 @@
-# python-practice
+eCommerce application in Java
